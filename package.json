@@ -1,0 +1,15 @@
+{
+  "name": "country-state-city",
+  "version": "1.0.0",
+  "description": "insert country states and city in db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Subham",
+  "license": "ISC",
+  "dependencies": {
+    "country-state-city": "^3.1.2",
+    "mongodb": "^4.13.0"
+  }
+}
